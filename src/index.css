@@ -14,7 +14,7 @@ code {
 
 /*      NAVBAR        */
 
-.navbar-nav li {
+.navbar-nav li a {
   font-size: 17px;
 }
 
