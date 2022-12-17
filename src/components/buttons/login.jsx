@@ -3,7 +3,7 @@ import React from 'react'
 const Login = () => {
     return (
         <>
-            <button type="button" class="btn btn-outline-primary"
+            <button type="button" class="btn btn-outline-primary ms-auto"
                 data-bs-toggle="modal" data-bs-target="#exampleModal">
                 Login
             </button>
