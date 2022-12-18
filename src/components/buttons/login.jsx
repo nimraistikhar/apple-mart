@@ -16,6 +16,9 @@ const Login = () => {
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
+                            <button className="btn btn-primary">
+                                Sign in with Google
+                            </button>
                             <form>
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" class="form-label">Email address</label>
