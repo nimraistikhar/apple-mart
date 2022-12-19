@@ -16,8 +16,8 @@ const Login = () => {
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <button className="btn btn-primary">
-                                Sign in with Google
+                            <button className="btn btn-primary w-100 mb-2">
+                                <span className='fa fa-google'>Sign in with Google</span>
                             </button>
                             <form>
                                 <div class="mb-3">
