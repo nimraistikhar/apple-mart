@@ -19,7 +19,7 @@ const Login = () => {
                         </div>
                         <div className="modal-body">
                             <button className="btn btn-primary w-100 mb-2">
-                                <span className='fa fa-google'>Sign in with Google</span>
+                                <span className='fa fa-google me-2'>Sign in with Google</span>
                             </button>
                             <form>
                                 <div className="mb-3">
